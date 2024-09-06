@@ -64,6 +64,17 @@ body {
     width: 100%;
 }
 
+.content-mini-box {
+    position: relative;
+    width: 100%;
+    height: 550px;
+}
+
+.content-mini-box, .more-btn {
+    position: absolute;
+    bottom: 0;
+}
+
 .content-text {
     color: #aaa;
     font-family: sans-serif;
